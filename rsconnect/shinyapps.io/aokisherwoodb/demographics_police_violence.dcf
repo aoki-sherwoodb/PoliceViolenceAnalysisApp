@@ -1,0 +1,14 @@
+name: demographics_police_violence
+title: demographics_police_violence
+username:
+account: aokisherwoodb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6436541
+bundleId: 5980661
+url: https://aokisherwoodb.shinyapps.io/demographics_police_violence/
+when: 1654489367.86254
+lastSyncTime: 1654489367.86255
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data_preprocessing.R|README.md
